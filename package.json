@@ -4,12 +4,13 @@
   "version": "0.1.0",
   "description": "Scroll window with keeping cursor position",
   "keywords": [
+      "scroll"
   ],
   "activationCommands": {
     "atom-workspace": "scroll-with-keeping-cursor-pos:scroll-down",
     "atom-workspace": "scroll-with-keeping-cursor-pos:scroll-up"
   },
-  "repository": "https://github.com/atom/scroll-with-keeping-cursor-pos",
+  "repository": "https://github.com/garaemon/atom-scroll-with-keeping-cursor-pos",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

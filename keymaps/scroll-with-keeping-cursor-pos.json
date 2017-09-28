@@ -1,6 +1,0 @@
-{
-  "atom-workspace": {
-    "cmd-n": "scroll-with-keeping-cursor-pos:scroll-down",
-    "cmd-p": "scroll-with-keeping-cursor-pos:scroll-up"
-  }
-}

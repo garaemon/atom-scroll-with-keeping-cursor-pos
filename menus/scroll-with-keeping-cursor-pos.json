@@ -1,12 +1,4 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle scroll-with-keeping-cursor-pos",
-        "command": "scroll-with-keeping-cursor-pos:toggle"
-      }
-    ]
-  },
   "menu": [
     {
       "label": "Packages",
@@ -15,8 +7,11 @@
           "label": "scroll-with-keeping-cursor-pos",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "scroll-with-keeping-cursor-pos:toggle"
+              "label": "Scroll Down",
+              "command": "scroll-with-keeping-cursor-pos:scroll-down"
+            }, {
+              "label": "Scroll Up",
+              "command": "scroll-with-keeping-cursor-pos:scroll-up"
             }
           ]
         }
