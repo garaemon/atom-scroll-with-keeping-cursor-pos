@@ -1,5 +1,9 @@
 # scroll-with-keeping-cursor-pos package
 
-A short description of your package.
+Scroll window with keeping cursor position.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## commands
+* `scroll-with-keeping-cursor-pos:scroll-down`
+  Scroll down the window and keep cursor position.
+* `scroll-with-keeping-cursor-pos:scroll-up`
+  Scroll up the window and keep cursor position.
